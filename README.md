@@ -1,4 +1,4 @@
-
+![Imagen1](https://github.com/user-attachments/assets/c8bf8d76-148e-4ad4-b478-5e35a920ff2a)
 
 # Juego del Amigo Secreto
 
@@ -28,3 +28,8 @@
 ### :video_game: Ejecutar la Aplicación
 
 Para ejecutar la aplicación presione el siguiente link:
+
+### :haulmer: Desarrolladores del proyecto
+
+- Juan Inzulza
+- Alura Latam
