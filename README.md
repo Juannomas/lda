@@ -12,9 +12,10 @@
 
 ### :white_check_mark: Funcionalidades del proyecto
 
-- ` Agregar nombres: ` Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
-- ` Visualizar la lista: ` Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
-- ` Sorteo aleatorio: ` Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+- ` Escribe un nombre: ` Los usuarios escribirán el nombre de un amigo en un campo de texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
+- ` Añadir: ` Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+- ` Sortear amigo: ` Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+- ` Reiniciar juego: ` Al hacer clic en el botón "Reiniciar Juego", se borraran los datos ingresados para iniciar un nuevo juego.
 
 ### :x: Restricciones del proyecto
 
@@ -29,7 +30,7 @@
 
 Para ejecutar la aplicación presione el siguiente link:
 
-### :haulmer: Desarrolladores del proyecto
+### :hammer: Desarrolladores del proyecto
 
 - Juan Inzulza
 - Alura Latam
